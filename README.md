@@ -1,7 +1,7 @@
 # Responsive Digital Agency Website
 
-This is a Digital Agency Website created using **JavaScript**, **HTML**, and **CSS**.
-Live Demo: [https://prasadlakhara.github.io/webtech-dark/](https://prasadlakhara.github.io/webtech-dark/)
+This is a Sports Club Website created using **JavaScript**, **HTML**, and **CSS**.
+Live Demo: [https://prasadlakhara.github.io/bestfoot-soccer-sports-web-Template/](https://prasadlakhara.github.io/bestfoot-soccer-sports-web-Template/)
 
 ## Steps to Clone and Customize
 
